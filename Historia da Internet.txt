@@ -1,0 +1,33 @@
+A internet surgiu em 1949, durante a guerra fria, sendo uma guerra de armamento entre Estados Unidos e Russia.
+
+
+Em 69,a Russia inicialmente lançou o primeiro satélite artificial chamado Sputnik, possuindo a função de rodar a orbita terrestre e cair na agua, servindo como teste.
+
+O EUA, achando que o satélite era espião, o presidente dos Estados Unidos Dwight Eisenhower fundou um orgão para estudo de satélite. Chamado Darpa.
+
+Ainda em 69, os Estados Unidos se encontra com um grande problema de comunicação entre bases militares. 
+
+Os primeiros 4 computadores são:
+
+-SDS Sigma 7
+-SDS 90
+-IBM 370/75
+-DEC PDP-10 (Único computador militar na época)
+
+-------------------------------------------------------------------------------------------------
+NCP Network Control Protocol (Protocolo de ontrole de Rede)
+    - Protocolo utilizado para conexão entre computadores diferentes(na época, computadores 
+    diferentes possuiam linguagens diferentes)
+
+Em 1977, os militares decidiram dividir a rede devido a grande quantidade de pessoas usando. Assim dividiu-se em MILNET, a rede militar e NSFNET.
+
+A internet surgiu para proteger centros militares..
+
+------------------------------------------------------------------------------------------------
+
+A internet surgiu com o protocolo gopher, primeiro meio de pesquisa da internet.
+
+------------------------------------------------------------------------------------------------
+HTTP - Desenvolvido por Tim Berners-Lee, o mesmo criador do html.
+
+WWW - Word Wide Web, 
